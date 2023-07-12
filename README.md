@@ -1,6 +1,6 @@
 # Proxyium Free Web Proxy
 
-Proxyium provides a free web proxy service that can help users unblock all websites and anyonmously browse websites. If you are looking for a method to protect your privacy online, using Proxyium web proxy and Lalicat antidetect browser can help you. Lalicat can camouflage different browser fingerprints and Proxyium offers different proxy IP, so any platforms can't detect your real information.
+[**Proxyium**](https://www.lalicat.com/proxyium) provides a free web proxy service that can help users unblock all websites and anyonmously browse websites. If you are looking for a method to protect your privacy online, using Proxyium web proxy and Lalicat antidetect browser can help you. Lalicat can camouflage different browser fingerprints and Proxyium offers different proxy IP, so any platforms can't detect your real information.
 
 [![Proxyium Free Web Proxy](https://res.cloudinary.com/marcomontalbano/image/upload/v1689146732/video_to_markdown/images/youtube--oXLcnV1x0n4-c05b58ac6eb4c4700831b2b3070cd403.jpg)](https://youtu.be/oXLcnV1x0n4 "Proxyium Free Web Proxy")
 
